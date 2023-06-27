@@ -1,0 +1,6 @@
+.header-logo{
+  display: none!important;
+}
+#main-footer .microphone,#main-footer .camera{
+    display: none!important;
+}
