@@ -7,3 +7,6 @@
 #main-footer .microphone,#main-footer .camera{
     display: none!important;
 }
+#startupJoinModal .microphone{
+    display: none!important;
+}
