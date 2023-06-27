@@ -1,3 +1,6 @@
 .header-logo{
   display: none!important;
 }
+#main-footer .microphone,#main-footer .participants{
+    display: none!important;
+}
