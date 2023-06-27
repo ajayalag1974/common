@@ -1,3 +1,6 @@
 .header-logo{
   display: none!important;
 }
+[role="menu"] button.text-red-900{
+    display: none!important;
+}
